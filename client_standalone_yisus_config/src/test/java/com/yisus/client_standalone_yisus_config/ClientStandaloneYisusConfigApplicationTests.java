@@ -1,10 +1,10 @@
-package com.yisus.eureka_server_discovery;
+package com.yisus.client_standalone_yisus_config;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EurekaServerDiscoveryApplicationTests {
+class ClientStandaloneYisusConfigApplicationTests {
 
     @Test
     void contextLoads() {
